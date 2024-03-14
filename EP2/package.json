@@ -1,0 +1,21 @@
+{
+  "name": "ep2",
+  "version": "1.0.0",
+  "description": "This is episode 2",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kalki Nallapati",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.12.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "process": "^0.11.10"
+  },
+  "browsersList": [
+    "last 2 versions"
+  ]
+}

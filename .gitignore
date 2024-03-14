@@ -1,0 +1,4 @@
+# Episode 2 git ignore files
+/EP2/node_modules
+/EP2/.parcel-cache
+/EP2/dist
